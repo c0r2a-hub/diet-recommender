@@ -1,6 +1,6 @@
 # Frontend/Dockerfile
 
-FROM python:3.10.8
+FROM python:3.10.14
 
 RUN mkdir -p app/frontend
 
